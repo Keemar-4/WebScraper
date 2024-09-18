@@ -1,4 +1,5 @@
-#WebScraper
+WebScraper
+
 **Project Overview:**
 
 CyberSecurity_JobScaper is a job search and data collection scraper specifically built for entry-level cybersecurity jobs. It uses the Jobs API, a worldwide job finder on RapidAPI that can effortlessly retrieve an extensive list of employment opportunities from a diverse array of renowned providers.
